@@ -12,5 +12,5 @@ Option 2 - Open the folder as a PyCharm Project.
            Now, in the PyCharm terminal, type - python manage.py runserver.
            You should see a link appear in the terminal. Open it in any browser.
 
-The admin page does not seem to open right now, but if it does,
-Existing superuser - Username: admin, Password: 1234
+Existing superuser - Username: admin,
+                     Password: 1234
