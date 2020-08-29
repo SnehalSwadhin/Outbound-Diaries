@@ -1,5 +1,4 @@
 # Outbound-Diaries
-==================
 
 Submission for International Relations Cell, IIT Kharagpur - Web Team Selection
 
@@ -11,5 +10,5 @@ Now, in the PyCharm terminal, type - python manage.py runserver.
 You should see a link appear in the terminal. Open it in any browser.
 
 Existing superuser:
-Username - admin
+Username - admin,
 Password - 1234
